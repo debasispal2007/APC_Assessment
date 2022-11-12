@@ -1,7 +1,8 @@
 # APC_Assessment
 
-This repository has Java project for Testing three API
+This repository has Java-Maven Project for Testing three API. The API Details could be found in "https://any-api.com/oceandrivers_com/oceandrivers_com/console/ODWeather/getAemetStation"
 REST API Automation: Please consider the JAVA folder "APCAssessment_RESTAPI_JAVA.zip". Two API's used for Test are "getAemetStation" and "getEasywind". A Negative scenario is considered to check the return code is 404 if the endpoint is not given properly.
+
 
 
 
